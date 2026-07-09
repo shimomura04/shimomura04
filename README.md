@@ -1,16 +1,24 @@
-## Hi there 👋
+# こんにちは(｀・ω・´) ご覧いただきありがとうございます。
 
-<!--
-**shimomura04/shimomura04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+京都精華大学のメディア表現学部に所属しています。
+高校の情報科教員を目指して勉強しています
 
-Here are some ideas to get you started:
+### 現在学んでいること
+- 教育学
+- メディア論
+- プログラミング（HTML, CSS, JavaScript, Python, SQL等）
+- 企画・制作（Webコンテンツ・IoTプロダクト）
+- Webデザイン
+- 3Dモデリング
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 使用ツール
+- Visual Studio Code
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe InDesign
+- Figma
+- Autodesk Fusion
+- Aviutl2
+
+### 作品
+- 
