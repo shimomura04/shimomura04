@@ -22,5 +22,5 @@
 - Blender
 
 ### 作品
-- https://shimomura04.github.io/my-website/<img width="442" height="25" alt="image" src="https://github.com/user-attachments/assets/2af2ab82-8f6c-44b0-bd6f-5c7d16d6c4bc" />
+- https://shimomura04.github.io/my-website/
 
